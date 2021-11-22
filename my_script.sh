@@ -1,0 +1,1 @@
+chmod com.zadre.cheatpoker
